@@ -1,0 +1,8 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.editor": "json",
+    "java.jdt.ls.java.home": "/home/jocelinnunes/.sdkman/candidates/java/current",
+    "maven.terminal.useJavaHome": true,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.openDefaultKeybindings": true
+}
